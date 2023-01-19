@@ -11,7 +11,7 @@
 
 <br>
 
-## Wanna talk? <a href="https://discord.com/users/328176942815903744" target="_blank">Write to me </a>  on   <a href="https://discord.com/users/328176942815903744" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" alt="Discord" width="160px"></a> 
+## Wanna talk? <a href="https://discord.com/users/328176942815903744">Write to me </a>  on   <a href="https://discord.com/users/328176942815903744" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" alt="Discord" width="140"></a> 
 
 <a href="https://discord.com/users/328176942815903744" target="_blank">![](https://dcbadge.vercel.app/api/shield/328176942815903744?theme=discord-inverted)</a>
 
