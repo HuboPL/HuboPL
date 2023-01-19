@@ -10,9 +10,13 @@
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="80" height="80"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="80" height="80"><img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" alt="Sass" width="80" height="80"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80">
 
 <br>
-- 📫 DISCORD (write to me 😉): Hubo#0383
 
-![](https://dcbadge.vercel.app/api/shield/328176942815903744?theme=discord-inverted)
+## Wanna talk? Write to me on  <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" alt="Discord" width="160px">
+
+<a href="https://discord.com/users/328176942815903744" target="_blank">**Hubo#0383**</a>
+
+
+<a href="https://discord.com/users/328176942815903744" target="_blank">![](https://dcbadge.vercel.app/api/shield/328176942815903744?theme=discord-inverted)</a>
 
 <hr>
 
