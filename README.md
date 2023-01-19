@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<img src="https://dcbadge.vercel.app/api/shield/328176942815903744?theme=clean-inverted" />
+<img src="https://dcbadge.vercel.app/api/shield/328176942815903744?theme=clean-inverted&logoColor=presence" />
 
 <hr>
 [![GitHub Streak](https://streak-stats.demolab.com?user=HubiBubi23&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
