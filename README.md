@@ -9,7 +9,7 @@
 
 <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="80" height="80"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="80" height="80"><img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" alt="Sass" width="80" height="80"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80">
 
-<br>
+<hr>
 
 ## Wanna talk? <a href="https://discord.com/users/328176942815903744"  target="_blank">Write to me </a>  on   <a href="https://discord.com/users/328176942815903744" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b5061df29d55a92d945_full_logo_blurple_RGB.svg" alt="Discord" width="140"></a> 
 
