@@ -1,8 +1,11 @@
-## Hiya folks! 🤘
+<h1> Hiya folks! 🤘 </h1>
 
-<p>I'm Hubo and I'm on the roadmap to becoming a Frontend Developer</p>
+<h2> I'm Hubo <img src="https://github.com/HubiBubi23/HubiBubi23/blob/main/pantera-rosa-seeklogo.com.svg" alt="Hubo Profile Picture" height="200"></h2>
+
+<p>I'm on the roadmap to becoming a Frontend Developer</p>
 <p>Then I will embark on the path to becoming a Full Stack Dev ☺</p>
 <sup>Will I succeed and persevere? Time will tell.</sup>
+
 
 
 <hr>
