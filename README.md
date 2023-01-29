@@ -4,7 +4,7 @@
 
 <p>I'm on the roadmap to becoming a Frontend Developer</p>
 <p>Then I will embark on the path to becoming a Full Stack Dev ☺</p>
-<sup>Will I succeed and persevere? Time will tell.</sup>
+<!-- <sup>Will I succeed and persevere? Time will tell.</sup> -->
 
 
 
