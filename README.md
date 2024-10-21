@@ -13,7 +13,7 @@
 
 ## I’m currently working on:
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="80" height="80"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="80" height="80"><img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" alt="Sass" width="80" height="80"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80">
+<img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="80" height="80"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="80" height="80"><img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" alt="Sass" width="80" height="80"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="HTML5" width="80" height="80">
 
 
 <br>
