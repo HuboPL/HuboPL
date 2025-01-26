@@ -32,3 +32,6 @@
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HuboPL&theme=tokyonight&locale=pl" alt="GitHub Streak" /></a>
+
+<br>
+<hr>
