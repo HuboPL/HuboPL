@@ -30,8 +30,9 @@
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=HuboPL&theme=tokyonight&locale=pl)](https://git.io/streak-stats)-->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=HuboPL&theme=tokyonight&locale=pl)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HuboPL&theme=tokyonight&locale=pl" alt="GitHub Streak" /></a>
+<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HuboPL&theme=tokyonight&locale=pl" alt="GitHub Streak" /></a>-->
 
 <br>
 <hr>
